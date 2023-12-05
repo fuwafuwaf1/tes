@@ -1,7 +1,7 @@
 const net = require('net');
 const http = require('http');
 const url = require('url');
-
+// ssh -R 0:localhost:2560 serveo.net
 const proxyServer = http.createServer(httpOptions);
 
 function httpOptions(clientReq, clientRes) {

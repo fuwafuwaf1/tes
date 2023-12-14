@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "socksv5": "^0.0.6"
+    "http-proxy": "^1.18.1"
   }
 }
